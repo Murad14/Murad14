@@ -14,7 +14,7 @@ A tech enthusiast!
 [![CSS](https://img.shields.io/badge/-CSS-1572B6.svg?style=flat-square&logo=css3&colorB=1572B6)](#)
 [![Java](https://img.shields.io/badge/-Java-007396.svg?style=flat-square&logo=java&colorB=007396)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=flat-square&logo=javascript&colorB=F7DF1E)](#)
-[![Linux](https://img.shields.io/badge/-Linux-
+[![Linux](https://img.shields.io/badge/-Linux-000000.svg?style=flat-square&logo=linux&colorA=000000)](#)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?style=flat-square&logo=mysql&colorB=4479A1)](#)
 [![PHP](https://img.shields.io/badge/-PHP-4F5B93.svg?style=flat-square&logo=php&colorB=4F5B93)](#)
 [![Postman](https://img.shields.io/badge/-Postman-F06C00.svg?style=flat-square&logo=postman&colorB=F06C00)](#)
