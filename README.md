@@ -2,10 +2,11 @@
 A tech enthusiast!
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://linkedin.com/in/muradulalammurad)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=flat-square&logo=facebook&colorB=1877f2)](https://facebook.com/murad.alam21)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584.svg?style=flat-square&logo=instagram&colorB=e4405f)](https://instagram.com/murad_ul_alam)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1.svg?style=flat-square&logo=twitter&colorB=1ca0f1)](https://twitter.com/MuradulAlam2)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue.svg?style=flat&logo=linkedin&logoColor=white&colorB=0077B5)](https://linkedin.com/in/muradulalammurad)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue.svg?style=flat&logo=facebook&logoColor=white&colorB=1877f2)](https://facebook.com/murad.alam21)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584.svg?style=flat&logo=instagram&logoColor=white&colorB=e4405f)](https://instagram.com/murad_ul_alam)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1.svg?style=flat&logo=twitter&logoColor=white&colorB=1ca0f1)](https://twitter.com/MuradulAlam2)
+
 
 ## Languages and Tools:
 [![C++](https://img.shields.io/badge/-C++-007ffc.svg?style=flat-square&logo=c%2B%2B&colorB=007ffc)](#)
