@@ -20,3 +20,4 @@ A tech enthusiast!
 [![Postman](https://img.shields.io/badge/-Postman-F06C00.svg?style=flat-square&logo=postman&colorB=F06C00)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=flat-square&logo=python&colorB=3776AB)](#)
 
+https://img.shields.io/badge/-C-black.svg?style=flat-square&logo=C&logoColor=white&colorB=00599C&label=C&logoWidth=20&logoHeight=20)](https://en.wikipedia.org/wiki/C)
