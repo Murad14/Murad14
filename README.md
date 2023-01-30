@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murad</h1>
 <h3 align="center">Programming Enthusiast</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" >
+<img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
