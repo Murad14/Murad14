@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/muradulalam2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muradulalam2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muradulalammurad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muradulalammurad" height="30" width="40" /></a>
-<a href="https://fb.com/murad.alam21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murad.alam21" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murad.alam21" height="30" width="40" /></a>
 <a href="https://instagram.com/murad_ul_alam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murad_ul_alam" height="30" width="40" /></a>
 </p>
 
